@@ -1,0 +1,59 @@
+{
+  "siteId": "family-dinner-menu",
+  "generatedAt": "2026-06-02T15:38:11.503173",
+  "categories": [
+    "beginner-family-dinner-menu",
+    "advanced-family-dinner-menu",
+    "tips-family-dinner-menu",
+    "history-family-dinner-menu",
+    "trending-family-dinner-menu",
+    "tutorials-family-dinner-menu"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-family-dinner-menu",
+      "category_name": "Beginner Family Dinner Menu"
+    },
+    {
+      "category_slug": "advanced-family-dinner-menu",
+      "category_name": "Advanced Family Dinner Menu"
+    },
+    {
+      "category_slug": "tips-family-dinner-menu",
+      "category_name": "Family Dinner Menu Tips"
+    },
+    {
+      "category_slug": "history-family-dinner-menu",
+      "category_name": "Family Dinner Menu History"
+    },
+    {
+      "category_slug": "trending-family-dinner-menu",
+      "category_name": "Trending Family Dinner Menu"
+    },
+    {
+      "category_slug": "tutorials-family-dinner-menu",
+      "category_name": "Family Dinner Menu Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "family-dinner-menu",
+    "color_scheme": {
+      "name": "Ocean Blue",
+      "primary": "#1e3a8a",
+      "secondary": "#3b82f6",
+      "accent": "#60a5fa",
+      "background": "#f8fafc",
+      "text": "#1e293b",
+      "light": "#f1f5f9"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "topbar",
+    "site_title": "Family Dinner Menu Central",
+    "articles_per_row": 3
+  }
+}

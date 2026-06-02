@@ -1,0 +1,88 @@
+# Validation Report - family-dinner-menu
+
+Generated: 2026-06-02T15:38:11.502954
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Family Dinner Menu
+- ✓ Article word count OK: Beginner Family Dinner Menu: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Family Dinner Menu
+- ✓ Article word count OK: Beginner Family Dinner Menu Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Family Dinner Menu
+- ✓ Article word count OK: Beginner Family Dinner Menu in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Family Dinner Menu
+- ✓ Article word count OK: Common Mistakes in Beginner Family Dinner Menu
+- ✓ Article word count OK: Beginner Family Dinner Menu for Beginners
+- ✓ Article word count OK: Advanced Beginner Family Dinner Menu Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Family Dinner Menu
+- ✓ Article word count OK: Advanced Family Dinner Menu: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Family Dinner Menu
+- ✓ Article word count OK: Advanced Family Dinner Menu Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Family Dinner Menu
+- ✓ Article word count OK: Advanced Family Dinner Menu in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Family Dinner Menu
+- ✓ Article word count OK: Common Mistakes in Advanced Family Dinner Menu
+- ✓ Article word count OK: Advanced Family Dinner Menu for Beginners
+- ✓ Article word count OK: Advanced Advanced Family Dinner Menu Techniques
+- ✓ Article word count OK: The Ultimate Guide to Family Dinner Menu Tips
+- ✓ Article word count OK: Family Dinner Menu Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Family Dinner Menu Tips
+- ✓ Article word count OK: Family Dinner Menu Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Family Dinner Menu Tips
+- ✓ Article word count OK: Family Dinner Menu Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Family Dinner Menu Tips
+- ✓ Article word count OK: Common Mistakes in Family Dinner Menu Tips
+- ✓ Article word count OK: Family Dinner Menu Tips for Beginners
+- ✓ Article word count OK: Advanced Family Dinner Menu Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Family Dinner Menu History
+- ✓ Article word count OK: Family Dinner Menu History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Family Dinner Menu History
+- ✓ Article word count OK: Family Dinner Menu History Tips and Best Practices
+- ✓ Article word count OK: The History of Family Dinner Menu History
+- ✓ Article word count OK: Family Dinner Menu History in 2026: Current Trends
+- ✓ Article word count OK: Future of Family Dinner Menu History
+- ✓ Article word count OK: Common Mistakes in Family Dinner Menu History
+- ✓ Article word count OK: Family Dinner Menu History for Beginners
+- ✓ Article word count OK: Advanced Family Dinner Menu History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Family Dinner Menu
+- ✓ Article word count OK: Trending Family Dinner Menu: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Family Dinner Menu
+- ✓ Article word count OK: Trending Family Dinner Menu Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Family Dinner Menu
+- ✓ Article word count OK: Trending Family Dinner Menu in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Family Dinner Menu
+- ✓ Article word count OK: Common Mistakes in Trending Family Dinner Menu
+- ✓ Article word count OK: Trending Family Dinner Menu for Beginners
+- ✓ Article word count OK: Advanced Trending Family Dinner Menu Techniques
+- ✓ Article word count OK: The Ultimate Guide to Family Dinner Menu Tutorials
+- ✓ Article word count OK: Family Dinner Menu Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Family Dinner Menu Tutorials
+- ✓ Article word count OK: Family Dinner Menu Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Family Dinner Menu Tutorials
+- ✓ Article word count OK: Family Dinner Menu Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Family Dinner Menu Tutorials
+- ✓ Article word count OK: Common Mistakes in Family Dinner Menu Tutorials
+- ✓ Article word count OK: Family Dinner Menu Tutorials for Beginners
+- ✓ Article word count OK: Advanced Family Dinner Menu Tutorials Techniques
+- ✓ Ad configuration validated
